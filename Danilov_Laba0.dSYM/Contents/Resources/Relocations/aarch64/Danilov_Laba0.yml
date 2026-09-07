@@ -1,5 +1,5 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     "/Users/alreadyrich/Desktop/АиВТ/2 курс/семестр № 3/Алгоритмические языки/Danilov_Laba0"
+binary-path:     '/Users/alreadyrich/Documents/GitHub/Danilov_GubkinUniversity/Danilov_Laba0'
 relocations:     []
 ...
